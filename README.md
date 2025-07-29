@@ -19,7 +19,13 @@
 - Soft Skills: User Research, Strategic Thinking, Communication 
 - Tools: VS Code, GitHub
 
-
+| Language     | Proficiency | Tools/Frameworks |
+|--------------|-------------|------------------|
+| HTML         | Intermediate | VS Code, GitHub |
+| CSS          | Intermediate | Figma, Chrome DevTools |
+| JavaScript   | Beginner     | DOM, Console, Git |
+| Python       | Beginner     | Jupyter, Terminal |
+| Git & GitHub | Beginner     | Version Control |
 
 
 
