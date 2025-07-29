@@ -1,7 +1,7 @@
 ## Hi there, I'm Jadesola Ojo 👋
--😁 Pronouns: she/her
--🎓 I'm a Computer Science student at Afe Babalola University (Class of 2027)
--😎 I am currently working towards being a Security Engineer / Data Scientist / Front-End Developer 
+- 😁 Pronouns: she/her
+- 🎓 I'm a Computer Science student at Afe Babalola University (Class of 2027)
+- 😎 I am currently working towards being a Security Engineer / Data Scientist / Front-End Developer 
 
 
 ## 🧠 Currently Learning
