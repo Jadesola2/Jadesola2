@@ -12,6 +12,13 @@
 
 
 ## 👨‍🚀 What I'm Working On
+- Learning JavaScript,CSS,HTML and Python
+- Building my first real-world tech projects
+
+## 🛠️ Skills
+- Soft Skills: User Research, Strategic Thinking, Communication 
+- Tools: VS Code, GitHub
+
 
 
 
